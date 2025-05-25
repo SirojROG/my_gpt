@@ -21,7 +21,7 @@ const HelpDialog = () => {
                 <DialogHeader>
                     <DialogTitle className="text-center gradient-text">aGPT haqida</DialogTitle>
                     <DialogDescription className="text-center pt-2">
-                        A'lamov Asadbek tomonidan yaratilgan sun'iy intellekt
+                        Abdullayev Sirojiddin tomonidan yaratilgan sun'iy intellekt
                     </DialogDescription>
                 </DialogHeader>
 
