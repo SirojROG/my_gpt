@@ -174,7 +174,7 @@ const MobileMenu = ({
                 <div className="flex items-center justify-center gap-2 mb-2">
                   <Cake className="h-4 w-4 text-pink-500" />
                   <span className="text-xs text-muted-foreground">
-                    A'lamov Asadbek tomonidan yaratildi
+                    Sirojiddin Abdullayev tomonidan yaratildi
                   </span>
                 </div>
                 <div className="text-xs text-muted-foreground opacity-60">

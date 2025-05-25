@@ -9,7 +9,7 @@ export const generateResponse = async (prompt: string) => {
       prompt.toLowerCase().includes("kim yaratgan") ||
       prompt.toLowerCase().includes("kim yaratdi") ||
       prompt.toLowerCase().includes("yaratuvchi")) {
-    return `aGPT was created by A'lamov Asadbek, a talented developer and AI enthusiast. He designed me to be a helpful assistant powered by advanced AI technology. If you'd like to learn more about him or get in touch, you can use the "Help" option in the main interface.`;
+    return `aGPT was created by Abdullayev Sirojiddin, a talented developer and AI enthusiast. He designed me to be a helpful assistant powered by advanced AI technology. If you'd like to learn more about him or get in touch, you can use the "Help" option in the main interface.`;
   }
   
   try {

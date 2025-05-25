@@ -34,14 +34,14 @@ const HelpDialog = () => {
 
                 <div className="flex flex-col space-y-3 mt-4">
                     <p className="text-center text-sm text-muted-foreground mb-2">
-                        aGPT - bu A'lamov Asadbek tomonidan ishlab chiqilgan ilg'or sun'iy intellekt yordamchisi bo'lib,
+                        aGPT - bu Abdullayev Sirojiddin tomonidan ishlab chiqilgan ilg'or sun'iy intellekt yordamchisi bo'lib,
                         eng so'nggi AI texnologiyasidan foydalangan holda qo'llab-quvvatlash xizmatlarini taqdim etadi.
                     </p>
 
                     <h3 className="font-medium text-center">Yaratuvchi bilan bog'lanish</h3>
 
                     <div className="grid grid-cols-2 gap-2">
-                        <a href="mailto:alamovasad@gmail.com" className="w-full" target='_blank'>
+                        <a href="mailto:siroj232@mail.ru" className="w-full" target='_blank'>
                             <Button variant="outline"
                                     className="w-full flex items-center gap-2 justify-center">
                                 <Mail className="h-4 w-4"/>
@@ -49,7 +49,7 @@ const HelpDialog = () => {
                             </Button>
                         </a>
 
-                        <a href="https://telegram.me/alamov_asadbek" className="w-full" target='_blank'>
+                        <a href="https://telegram.me/siroj_ROG" className="w-full" target='_blank'>
                             <Button variant="outline" className="w-full flex items-center gap-2 justify-center">
                                 <MessageSquare className="h-4 w-4"/>
                                 <span>Telegram</span>
@@ -58,7 +58,7 @@ const HelpDialog = () => {
                     </div>
 
                     <p className="text-xs text-center text-muted-foreground mt-4">
-                        © {new Date().getFullYear()} A'lamov Asadbek. Barcha huquqlar himoyalangan.
+                        © {new Date().getFullYear()} Abdullayev Sirojiddin. Barcha huquqlar himoyalangan.
                     </p>
                 </div>
             </DialogContent>
